@@ -1,6 +1,6 @@
 Thi is Contact Us Page
 Address: Hyderabad
 Street: MIG Street
-House NO:158
+House NO:158, Near Forum Mall
 State:Andhrapradesh
 Zipcode:500072
